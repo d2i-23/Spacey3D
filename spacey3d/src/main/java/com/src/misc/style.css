@@ -1,0 +1,38 @@
+.combo-box {
+    -fx-font: 12px 'Arial';
+    -fx-background-color: #3b3c3d;
+    -fx-border-color: grey;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-text-fill: white;
+}
+
+.combo-box .arrow-button .arrow {
+    -fx-background-color: white; /* Change arrow color to white */
+    -fx-shape: "M0,0 L1,0 L0.5,1 Z"; /* Customize arrow shape (optional) */
+}
+
+.combo-box .arrow-button {
+    -fx-background-color: transparent; /* Make the button background transparent */
+    -fx-background-radius: 0; /* Ensure no background radius */
+}
+
+.combo-box:hover .arrow-button {
+    -fx-background-color: transparent; /* Make the button background transparent when hovered */
+}
+
+/* Change the text color of the selected item in the ComboBox */
+.combo-box .combo-box-display {
+    -fx-text-fill: white; /* Set the text color to white */
+    -fx-background-color: blue; 
+}
+
+/* Change the text color of the items in the dropdown list */
+.combo-box .list-cell {
+    -fx-text-fill: white; /* Set the text color to white */
+    -fx-background-color: #3b3c3d;
+}
+
+.combo-box .label {
+    -fx-text-fill: white; /* Set the text color to white */
+}
