@@ -1,5 +1,6 @@
 
 <img src="https://github.com/user-attachments/assets/a2641a37-1419-4001-bfa2-f17e35fddd34" height="100" align="right" />
+
 # Spacey3D
 
 This repository contains the code for Spacey3D using JavaFX. Program is still in early development. Major changes are expected to come.   
