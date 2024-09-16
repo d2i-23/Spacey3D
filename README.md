@@ -9,8 +9,7 @@ This repository contains the code for Spacey3D using JavaFX. Program is still in
 
 One of the biggest roadblock In Linear Algebra is having an intuitive visualization of spans, vector spaces, planes, etc. This software aims to ease this by allowing you to graph using spans than equations from traditional graphing calculators. 
 
-![image](https://github.com/user-attachments/assets/9e094c24-1243-42a4-ae7f-290552cc09d6)
-
+<img src="https://github.com/user-attachments/assets/9e094c24-1243-42a4-ae7f-290552cc09d6" height="300" width="400" />
 ## Installation 
 
 To run the program, go to CODE >> DOWNLOAD ZIP. Unzip the downloaded folder then run the spacey3d.exe application. 
