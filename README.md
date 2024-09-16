@@ -3,7 +3,7 @@
 
 # Spacey3D
 
-This repository contains the code for Spacey3D using JavaFX. Program is still in early development. Major changes are expected to come.   
+This repository contains the code for Spacey3D using JavaFX. Program is still in early development. I have plans to make more changes in the future, so thank you for testing it out!! 
 
 ## Purpose 
 
