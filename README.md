@@ -10,7 +10,7 @@ One of the biggest roadblock In Linear Algebra is having an intuitive visualizat
 
 ## Installation 
 
-To run the program, click on CODE >> DOWNLOAD ZIP. Unzip the downloaded folder then run the spacey3d.exe application. 
+To run the program, go to CODE >> DOWNLOAD ZIP. Unzip the downloaded folder then run the spacey3d.exe application. 
 
 ## Support
 
